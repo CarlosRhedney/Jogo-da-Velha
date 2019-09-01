@@ -1,2 +1,2 @@
 # Jogo da Velha
-jogo desenvolvido em jquery.
+jogo desenvolvido em jquery....
